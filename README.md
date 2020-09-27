@@ -4,3 +4,5 @@ Performed analysis on Kickstarter data to uncover trends of successful campaigns
 Findings:
 
 - The Theater sector had the greatest outcomes, over 800 successful campaigns globally who met or exceeded their goals. ![Parent Category and Outcomes](https://github.com/AQUINT01/kickstarter-analysis/blob/master/Module_1_PivotChart_Parent_Category_Outcomes.png)
+
+- Within the Theater sector, Plays were the biggest winners. ![Theater Outcomes by Subcategory](https://github.com/AQUINT01/kickstarter-analysis/blob/master/Module_1_Theater_Outcomes_by_subcategory_bar_graph.png)
