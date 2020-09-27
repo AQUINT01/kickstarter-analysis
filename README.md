@@ -9,4 +9,4 @@ Findings:
 - Within the Theater sector, Plays were the biggest winners. ![Theater Outcomes by Subcategory](https://github.com/AQUINT01/kickstarter-analysis/blob/master/Module_1_Theater_Outcomes_by_subcategory_bar_graph.png)
 
 
-- Most successful campaigns were launched during the late spring, early summer months, May and June.!([Launched Date and Outcomes]https://github.com/AQUINT01/kickstarter-analysis/blob/master/Module_1_Launched_Date_Outcomes_line_graph.png)
+- Most successful campaigns were launched during the late spring, early summer months, May and June.![Launched Date and Outcomes](https://github.com/AQUINT01/kickstarter-analysis/blob/master/Module_1_Launched_Date_Outcomes_line_graph.png)
