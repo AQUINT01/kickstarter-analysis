@@ -19,5 +19,5 @@ Recommendations based on the findings.
 
 - First. Louise should lower goal amount of $10k.
 - Second. The campaign should launch in late-spring, early-summer to increase the successful rate.
-- Third. Target backers globally 
+- Third. Target backers globally. 
 
